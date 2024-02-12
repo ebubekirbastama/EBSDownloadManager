@@ -48,3 +48,10 @@ catch (Exception ex)
 }
 ```
 Her indirme yönteminin kendi hata kontrolü bulunmaktadır. Hatalar, konsola yazdırılarak kullanıcıya bilgi verilir. 
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+
+---
+
+🚀 İyi kodlamalar!
