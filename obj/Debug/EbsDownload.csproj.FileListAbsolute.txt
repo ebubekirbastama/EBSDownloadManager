@@ -1,0 +1,6 @@
+C:\Users\siyahmuhafiz\source\repos\EbsDownload\bin\Debug\EbsDownload.dll
+C:\Users\siyahmuhafiz\source\repos\EbsDownload\bin\Debug\EbsDownload.pdb
+C:\Users\siyahmuhafiz\source\repos\EbsDownload\obj\Debug\EbsDownload.csproj.AssemblyReference.cache
+C:\Users\siyahmuhafiz\source\repos\EbsDownload\obj\Debug\EbsDownload.csproj.CoreCompileInputs.cache
+C:\Users\siyahmuhafiz\source\repos\EbsDownload\obj\Debug\EbsDownload.dll
+C:\Users\siyahmuhafiz\source\repos\EbsDownload\obj\Debug\EbsDownload.pdb
